@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marcus/git_practice/git_practice_1/4_how_to_use_CMake/main.c
+stdio.h
+-
+my.h
+/home/marcus/git_practice/git_practice_1/4_how_to_use_CMake/my.h
+
+/home/marcus/git_practice/git_practice_1/4_how_to_use_CMake/my.c
+my.h
+/home/marcus/git_practice/git_practice_1/4_how_to_use_CMake/my.h
+
+/home/marcus/git_practice/git_practice_1/4_how_to_use_CMake/my.h
+

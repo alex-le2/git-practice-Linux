@@ -1,0 +1,3 @@
+/home/marcus/git_practice/git_practice_1/4_how_to_use_CMake/build/CMakeFiles/rebuild_cache.dir
+/home/marcus/git_practice/git_practice_1/4_how_to_use_CMake/build/CMakeFiles/edit_cache.dir
+/home/marcus/git_practice/git_practice_1/4_how_to_use_CMake/build/CMakeFiles/mytest.dir

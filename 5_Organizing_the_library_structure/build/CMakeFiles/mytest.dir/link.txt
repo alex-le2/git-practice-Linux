@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/mytest.dir/main.c.o  -o mytest  mylib/libmylib.a 

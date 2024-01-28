@@ -1,0 +1,6 @@
+/home/marcus/git_practice/git_practice_1/5_Organizing_the_library_structure/build/CMakeFiles/rebuild_cache.dir
+/home/marcus/git_practice/git_practice_1/5_Organizing_the_library_structure/build/CMakeFiles/edit_cache.dir
+/home/marcus/git_practice/git_practice_1/5_Organizing_the_library_structure/build/CMakeFiles/mytest.dir
+/home/marcus/git_practice/git_practice_1/5_Organizing_the_library_structure/build/mylib/CMakeFiles/edit_cache.dir
+/home/marcus/git_practice/git_practice_1/5_Organizing_the_library_structure/build/mylib/CMakeFiles/rebuild_cache.dir
+/home/marcus/git_practice/git_practice_1/5_Organizing_the_library_structure/build/mylib/CMakeFiles/mylib.dir

@@ -1,0 +1,5 @@
+cmake_minimum_required (VERSION 2.8)
+project (mytest)
+add_subdirectory(mylib)
+add_executable (mytest main.c)
+target_link_libraries(mytest PUBLIC mylib)

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/mytest.dir/main.c.o  -o mytest   -L/home/marcus/git_practice/git_practice_1/5_Organizing_the_library_structure/mylib/build  -Wl,-rpath,/home/marcus/git_practice/git_practice_1/5_Organizing_the_library_structure/mylib/build -lmylib 

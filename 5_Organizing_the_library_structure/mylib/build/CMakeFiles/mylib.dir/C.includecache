@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/my.h
+
+/home/marcus/git_practice/git_practice_1/5_Organizing_the_library_structure/mylib/src/my.c
+my.h
+/home/marcus/git_practice/git_practice_1/5_Organizing_the_library_structure/mylib/src/my.h
+

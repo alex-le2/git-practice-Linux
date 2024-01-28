@@ -3,7 +3,11 @@
 
 CMakeFiles/mytest.dir/main.c.o: ../main.c
 CMakeFiles/mytest.dir/main.c.o: ../my.h
+CMakeFiles/mytest.dir/main.c.o: ../your.h
 
 CMakeFiles/mytest.dir/my.c.o: ../my.c
 CMakeFiles/mytest.dir/my.c.o: ../my.h
+
+CMakeFiles/mytest.dir/your.c.o: ../your.c
+CMakeFiles/mytest.dir/your.c.o: ../your.h
 

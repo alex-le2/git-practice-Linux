@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_C
   "/home/marcus/git_practice/git_practice_1/4_how_to_use_CMake/main.c" "/home/marcus/git_practice/git_practice_1/4_how_to_use_CMake/build/CMakeFiles/mytest.dir/main.c.o"
   "/home/marcus/git_practice/git_practice_1/4_how_to_use_CMake/my.c" "/home/marcus/git_practice/git_practice_1/4_how_to_use_CMake/build/CMakeFiles/mytest.dir/my.c.o"
+  "/home/marcus/git_practice/git_practice_1/4_how_to_use_CMake/your.c" "/home/marcus/git_practice/git_practice_1/4_how_to_use_CMake/build/CMakeFiles/mytest.dir/your.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

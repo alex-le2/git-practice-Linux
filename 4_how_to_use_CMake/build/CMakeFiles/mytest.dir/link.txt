@@ -1,1 +1,1 @@
-/usr/bin/cc    CMakeFiles/mytest.dir/my.c.o CMakeFiles/mytest.dir/main.c.o  -o mytest 
+/usr/bin/cc    CMakeFiles/mytest.dir/my.c.o CMakeFiles/mytest.dir/main.c.o CMakeFiles/mytest.dir/your.c.o  -o mytest 

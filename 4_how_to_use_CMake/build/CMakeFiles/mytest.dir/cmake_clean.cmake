@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/mytest.dir/main.c.o"
   "CMakeFiles/mytest.dir/my.c.o"
+  "CMakeFiles/mytest.dir/your.c.o"
   "mytest"
   "mytest.pdb"
 )

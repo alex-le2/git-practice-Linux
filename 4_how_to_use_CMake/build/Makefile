@@ -177,6 +177,33 @@ my.c.s:
 	$(MAKE) -f CMakeFiles/mytest.dir/build.make CMakeFiles/mytest.dir/my.c.s
 .PHONY : my.c.s
 
+your.o: your.c.o
+
+.PHONY : your.o
+
+# target to build an object file
+your.c.o:
+	$(MAKE) -f CMakeFiles/mytest.dir/build.make CMakeFiles/mytest.dir/your.c.o
+.PHONY : your.c.o
+
+your.i: your.c.i
+
+.PHONY : your.i
+
+# target to preprocess a source file
+your.c.i:
+	$(MAKE) -f CMakeFiles/mytest.dir/build.make CMakeFiles/mytest.dir/your.c.i
+.PHONY : your.c.i
+
+your.s: your.c.s
+
+.PHONY : your.s
+
+# target to generate assembly for a file
+your.c.s:
+	$(MAKE) -f CMakeFiles/mytest.dir/build.make CMakeFiles/mytest.dir/your.c.s
+.PHONY : your.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -192,6 +219,9 @@ help:
 	@echo "... my.o"
 	@echo "... my.i"
 	@echo "... my.s"
+	@echo "... your.o"
+	@echo "... your.i"
+	@echo "... your.s"
 .PHONY : help
 
 
